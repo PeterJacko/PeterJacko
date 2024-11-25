@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+To see the list of all repositories I am collaborating on, click on "Stars" in the menu above.
+
 <!--
 **PeterJacko/PeterJacko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
